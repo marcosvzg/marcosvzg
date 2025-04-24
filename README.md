@@ -1,6 +1,5 @@
 ## Hi there marcosvzg 👋
-# 💫 About Me:
-# 💫 About Me:
+# 💫 Acerca de mi:
 Hola, mi nombre es Marcos.<br>Actualmente me encuentro estudiando en cursos de informática
 
 
